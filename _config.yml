@@ -7,8 +7,9 @@ theme: jekyll-remote-theme
 accent_image: /assets/fond_sid.png
 title: Brent_Hackiyaz's World !
 description: Welcome to the the blog that see hacking larger than life itself !
-google_fonts: Jersey+15:400
-
+font:         'Jersey 15', cursive
+font_heading: 'Jersey 15', cursive
+google_fonts: Jersey+15
 author:
   picture: /assets/fond_sid.png
   social:
