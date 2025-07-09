@@ -2,7 +2,7 @@ plugins:
   - jekyll-avatar
   - jekyll-include-cache
 
-remote_theme: hydecorp/hydejack@v9.1.4
+remote_theme: hydecorp/hydejack@v9.2.1
 theme: jekyll-remote-theme
 accent_image: /assets/fond_sid.png
 title: Brent_Hackiyaz's World !
