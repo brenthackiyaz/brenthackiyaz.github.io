@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/time-machine@v0.2.0
+theme: jekyll-remote-theme
 title: Brent_Hackiyaz's World !
 description: Welcome to the the blog that see hacking larger than life itself !
