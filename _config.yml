@@ -10,7 +10,8 @@ author:
   social:
     github:  brenthackiyaz
     linkedin: https://fr.linkedin.com/in/solal-stark/
-dark_mode:
-  dynamic: true
-  icon:    true
-  always:  false
+hydejack:
+  dark_mode:
+    dynamic: true
+    icon:    true
+    always:  false
