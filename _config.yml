@@ -1,17 +1,16 @@
 remote_theme: hydecorp/hydejack@v9.2.1
 accent_image: /assets/fond_sid.png
 title: Brent_Hackiyaz's World !
-description: Welcome to the the blog that see hacking larger than life itself !
-font:         'Jersey 15', cursive
-font_heading: 'Jersey 15', cursive
+description: Welcome to the blog that sees hacking larger than life itself!
+font: 'Jersey 15, cursive'
+font_heading: 'Jersey 15, cursive'
 google_fonts: Jersey+15
 author:
   picture: /assets/fond_sid.png
   social:
-    github:  brenthackiyaz
+    github: brenthackiyaz
     linkedin: https://fr.linkedin.com/in/solal-stark/
-hydejack:
-  dark_mode:
-    dynamic: true
-    icon:    true
-    always:  false
+dark_mode:
+  dynamic: true
+  icon: true
+  always: false
